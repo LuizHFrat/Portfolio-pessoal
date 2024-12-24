@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "538110339684",
+    "firebase_url": "https://crud-01-diario-default-rtdb.firebaseio.com",
+    "project_id": "crud-01-diario",
+    "storage_bucket": "crud-01-diario.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538110339684:android:d865102ac64e394b5f0d71",
+        "android_client_info": {
+          "package_name": "com.appcompras.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDylzVeuGEKWkfF1PLhsZU8SmpsKvo3Nag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538110339684:android:938ffdaf94d8d2395f0d71",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_mercado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDylzVeuGEKWkfF1PLhsZU8SmpsKvo3Nag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
